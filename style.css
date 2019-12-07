@@ -1,0 +1,23 @@
+/*Selector{
+	Property: value;
+}*/
+
+body{
+	background-image: url(background.jpg)
+}
+
+h2 {
+	color: #AA9B39;
+	text-align: center;
+	border: 5px solid rgba(136, 45, 96,0.5);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
